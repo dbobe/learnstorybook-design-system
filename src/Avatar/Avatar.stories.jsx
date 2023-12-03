@@ -66,3 +66,15 @@ export const Large = {
     </>
   ),
 };
+
+/*
+  New Story using controls
+*/
+export const Controls = {
+  args: {
+    loading: false,
+    size: 'tiny',
+    username: 'Dominic Nguyen',
+    src: 'https://avatars.githubusercontent.com/u/263385',
+  },
+};
